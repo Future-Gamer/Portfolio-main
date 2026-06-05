@@ -75,87 +75,87 @@ const About = () => {
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="/assets/logos/photoshop.png"
+              image="assets/logos/photoshop.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="/assets/logos/git.svg"
+              image="assets/logos/git.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="/assets/logos/github.svg"
+              image="assets/logos/github.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="/assets/logos/html5.svg"
+              image="assets/logos/html5.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="/assets/logos/javascript.svg"
+              image="assets/logos/javascript.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\css3.svg"
+              image="assets/logos/css3.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\Meta_Logo.png"
+              image="assets/logos/Meta_Logo.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\mixamo.png"
+              image="assets/logos/mixamo.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\react.svg"
+              image="assets/logos/react.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\microsoft.svg"
+              image="assets/logos/microsoft.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\tailwindcss.svg"
+              image="assets/logos/tailwindcss.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\vitejs.svg"
+              image="assets/logos/vitejs.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\sqlite.svg"
+              image="assets/logos/sqlite.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\visualstudiocode.svg"
+              image="assets/logos/visualstudiocode.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\stripe.svg"
+              image="assets/logos/stripe.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\visual-studio.png"
+              image="assets/logos/visual-studio.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="public\assets\logos\threejs.svg"
+              image="assets/logos/threejs.svg"
               containerRef={grid2Container}
             />
             {/* <Card
