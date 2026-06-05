@@ -19,7 +19,7 @@ export const myProjects = [
       {
         id: 1,
         name: "Unity 3D",
-        path: "public/assets/logos/Unity.png ",
+        path: "public/assets/logos/unity.png ",
       },
       {
         id: 2,
@@ -256,7 +256,7 @@ export const mySocials = [
   {
     name: "GitHub",
     href: "https://github.com/Future-Gamer",
-    icon: "assets/logos/github-white.svg",
+    icon: "public/assets/logos/github-white.svg",
   },
   {
     name: "Linkedin",
