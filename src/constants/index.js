@@ -14,12 +14,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "public/assets/projects/Echoes-of-Andromeda.webp",
+    image: "/assets/projects/Echoes-of-Andromeda.webp",
     tags: [
       {
         id: 1,
         name: "Unity 3D",
-        path: "public/assets/logos/Unity.png ",
+        path: "/assets/logos/Unity.png ",
       },
       {
         id: 2,
@@ -29,22 +29,22 @@ export const myProjects = [
       {
         id: 3,
         name: "Blender",
-        path: "public/assets/logos/blender.png",
+        path: "/assets/logos/blender.png",
       },
       {
         id: 4,
         name: "Git",
-        path: "assets/logos/git.svg",
+        path: "/assets/logos/git.svg",
       },
       {
         id: 5,
         name: "Mixamo",
-        path: "public/assets/logos/mixamo.png",
+        path: "/assets/logos/mixamo.png",
       },
       {
         id: 6,
         name: "Photoshop",
-        path: "public/assets/logos/photoshop.png",
+        path: "/assets/logos/photoshop.png",
       },
     ],
   },
@@ -61,12 +61,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "public/assets/projects/Mythic_Mayhem_Zombie_Apolyclips.png",
+    image: "/assets/projects/Mythic_Mayhem_Zombie_Apolyclips.png",
     tags: [
       {
         id: 1,
         name: "Unity",
-        path: "public/assets/logos/unity.png",
+        path: "/assets/logos/unity.png",
       },
       {
         id: 2,
@@ -76,12 +76,12 @@ export const myProjects = [
       {
         id: 3,
         name: "Blender",
-        path: "public/assets/logos/blender.png",
+        path: "/assets/logos/blender.png",
       },
       {
         id: 4,
         name: "Photoshop",
-        path: "public/assets/logos/photoshop.png",
+        path: "/assets/logos/photoshop.png",
       },
     ],
   },
@@ -98,17 +98,17 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "public/assets/projects/XR-VR_ShootingRange.png",
+    image: "/assets/projects/XR-VR_ShootingRange.png",
     tags: [
       {
         id: 1,
         name: "Unity",
-        path: "public/assets/logos/unity.png",
+        path: "/assets/logos/unity.png",
       },
       {
         id: 2,
         name: "Meta XR SDK",
-        path: "public/assets/logos/Meta_Logo.png",
+        path: "/assets/logos/Meta_Logo.png",
       },
       {
         id: 3,
@@ -130,12 +130,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "public/assets/projects/Doctors_Attack.webp",
+    image: "/assets/projects/Doctors_Attack.webp",
     tags: [
       {
         id: 1,
         name: "Unity",
-        path: "public/assets/logos/unity.png",
+        path: "/assets/logos/unity.png",
       },
       {
         id: 2,
@@ -145,12 +145,12 @@ export const myProjects = [
       {
         id: 3,
         name: "Blender",
-        path: "public/assets/logos/blender.png",
+        path: "/assets/logos/blender.png",
       },
       {
         id: 4,
         name: "Photoshop",
-        path: "public/assets/logos/photoshop.png",
+        path: "/assets/logos/photoshop.png",
       },
     ],
   },
@@ -167,12 +167,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "public/assets/projects/Beginner's-Adventure.png",
+    image: "/assets/projects/Beginner's-Adventure.png",
     tags: [
       {
         id: 1,
         name: "Unity 2D",
-        path: "public/assets/logos/unity.png",
+        path: "/assets/logos/unity.png",
       },
       {
         id: 2,
@@ -182,7 +182,7 @@ export const myProjects = [
       {
         id: 3,
         name: "Photoshop",
-        path: "public/assets/logos/photoshop.png",
+        path: "/assets/logos/photoshop.png",
       },
     ],
   },
@@ -199,12 +199,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "public/assets/projects/Roll-a-ball.png",
+    image: "/assets/projects/Roll-a-ball.png",
     tags: [
       {
         id: 1,
         name: "Unity",
-        path: "public/assets/logos/unity.png",
+        path: "/assets/logos/unity.png",
       },
       {
         id: 2,
@@ -214,7 +214,7 @@ export const myProjects = [
       {
         id: 3,
         name: "Blender",
-        path: "public/assets/logos/blender.png",
+        path: "/assets/logos/blender.png",
       },
     ],
   },
@@ -231,12 +231,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "public/assets/projects/Flappy_Bird.png",
+    image: "/assets/projects/Flappy_Bird.png",
     tags: [
       {
         id: 1,
         name: "Unity",
-        path: "public/assets/logos/unity.png",
+        path: "/assets/logos/unity.png",
       },
       {
         id: 2,
@@ -246,7 +246,7 @@ export const myProjects = [
       {
         id: 3,
         name: "Blender",
-        path: "public/assets/logos/blender.png",
+        path: "/assets/logos/blender.png",
       },
     ],
   },
