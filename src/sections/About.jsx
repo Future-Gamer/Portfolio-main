@@ -65,12 +65,12 @@ const About = () => {
             />
             <Card
               style={{ rotate: "-45deg", top: "70%", left: "25%" }}
-              image="https://www.jioaicloud.com/l/?u=fbn5HKUYE3ke8pI08Skz2V7Sco-UwVZF05WDH3fz9Y8=PuU"
+              image="assets/logos/unity.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="https://www.jioaicloud.com/l/?u=vfefuWFwrLnZQi4KfiVzPTshLgF6qn4P8twCN5M5ZQ4=MHW"
+              image="public/assets/logos/blender.png"
               containerRef={grid2Container}
             />
             <Card
